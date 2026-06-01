@@ -1,0 +1,3 @@
+Version V0
+
+MOVE 'V0' TO WS-VERSION
