@@ -1,3 +1,5 @@
 Version V1
 
-MOVE 'V1git checkout -b “nombre nueva rama”' TO WS-VERSION
+MOVE 'V1' TO WS-VERSION
+
+modificado directamente en master
