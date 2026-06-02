@@ -1,6 +1,13 @@
 Version V1
 
-MOVE 'V1git checkout -b â€œnombre nueva ramaâ€' TO WS-VERSION
+<<<<<<< .mine
+MOVE 'V1git checkout -b “nombre nueva rama”' TO WS-VERSION
 
 modificado desde rama01
 git
+=======
+MOVE 'V1' TO WS-VERSION
+
+modificado directamente en master
+
+>>>>>>> .theirs
